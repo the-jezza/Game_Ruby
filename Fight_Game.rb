@@ -64,7 +64,7 @@ def add_player(p1)
 		puts "#{p2}"
 		fight_player(p1, p2)
 	else
-		#puts "Go!"
+		puts "Go!"
 		cpu_fight(p1)
 	end
 end
